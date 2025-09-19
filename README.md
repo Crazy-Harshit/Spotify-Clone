@@ -79,11 +79,7 @@ To run this project locally, simply clone the repository and open the `index.htm
 
 You can view a live demo of the project hosted on GitHub Pages here:
 
-[**https://crazy-harshit.github.io/Spotify-Clone/**](https://www.google.com/search?q=https://crazy-harshit.github.io/Spotify-Clone/)
-
-*(Note: You can easily set up GitHub Pages for your own repository by going to `Settings` \> `Pages` and selecting the `main` branch as the source.)*
-
------
+https://crazy-harshit.github.io/Spotify-Clone/
 
 ## 👤 Author
 
